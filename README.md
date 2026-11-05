@@ -1,2 +1,2 @@
 # ytdj
-Datos de BPM y tonalidad: [GetSongBPM](https://getsongbpm.com)
+Datos de BPM y tonalidad: [GetSongBPM](https://getsongbpm.com) https://getsongbpm.com
